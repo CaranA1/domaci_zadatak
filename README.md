@@ -55,4 +55,13 @@ Povrsina trapeza je: 365
 C:\Users\Aleksa Caran\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe (process 4884) exited with code 0 (0x0).
 Press any key to close this window . . .
 ```
+### Објекти
+|Редни број|Променљива|Тип променљиве|
+|----------|----------|--------------|
+|1.|a|double|
+|2.|b|double|
+|3.|h|double|
+|4.|P|double|
+
+
 
