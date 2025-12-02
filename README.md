@@ -5,4 +5,4 @@
 
 $P = \frac{a+b}{2} \cdot h$
 ### Алгоритамска шема
-!  (/main.png)
+![](Main.png)
