@@ -35,3 +35,24 @@ class Program
 }
 ```
 ### Тест примери
+Тест пример 1
+```
+Unesite duzinu stranice a: 8
+Unesite duzinu stranice b: 3
+Unesite visinu h: 10
+Povrsina trapeza je: 55
+
+C:\Users\Aleksa Caran\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe (process 14672) exited with code 0 (0x0).
+Press any key to close this window . . .
+```
+Тест пример 2
+```
+Unesite duzinu stranice a: 40
+Unesite duzinu stranice b: 33
+Unesite visinu h: 10
+Povrsina trapeza je: 365
+
+C:\Users\Aleksa Caran\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe (process 4884) exited with code 0 (0x0).
+Press any key to close this window . . .
+```
+
