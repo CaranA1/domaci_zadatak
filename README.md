@@ -7,7 +7,7 @@ $P = \frac{a+b}{2} \cdot h$
 ### Алгоритамска шема
 ![](Main.png)
 ## Решење
-```
+```cs
 using System;
 
 class Program
