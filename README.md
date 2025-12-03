@@ -36,7 +36,7 @@ class Program
 ```
 ### Тест примери
 Тест пример 1
-```
+```text
 Unesite duzinu stranice a: 8
 Unesite duzinu stranice b: 3
 Unesite visinu h: 10
@@ -46,7 +46,7 @@ C:\Users\Aleksa Caran\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe (proces
 Press any key to close this window . . .
 ```
 Тест пример 2
-```
+```text
 Unesite duzinu stranice a: 40
 Unesite duzinu stranice b: 33
 Unesite visinu h: 10
